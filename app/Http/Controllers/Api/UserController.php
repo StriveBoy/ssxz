@@ -38,7 +38,6 @@ class UserController extends Controller
             return response()->json([
                 'errCode' => 0,
                 'errMsg' => 'register OK!',
-                'data' => $request->all()
             ]);
         } catch (TokenExpiredException $e) {
             return response()->json([

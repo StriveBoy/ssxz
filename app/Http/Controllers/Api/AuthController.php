@@ -23,8 +23,7 @@ class AuthController extends Controller
         return response()->json([
             'errCode' => 0,
             'errMsg' => 'Get Token OK!',
-            'data' => $token,
-            'request' => $request->all(),
+            'data' => compact('token'),
         ]);
     }
 }
