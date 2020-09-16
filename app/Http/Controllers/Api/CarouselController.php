@@ -20,7 +20,7 @@ class CarouselController extends Controller
     /**
      * 轮播详情
      * @param int $id
-     * @return CarouselCollection
+     * @return CarouselResource
      */
     public function carouselDetail($id) {
         return new CarouselResource(Carousel::find($id));

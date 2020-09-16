@@ -20,11 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="608bb9f1-b970-4074-91a5-2eca5cde4b97" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Api/AuthController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Api/AuthController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Api/UserController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Api/UserController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/接口文档.md" beforeDir="false" afterPath="$PROJECT_DIR$/接口文档.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Api/CarouselController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Api/CarouselController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Resources/CarouselCollection.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Resources/CarouselCollection.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,7 +192,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599881762033</updated>
       <workItem from="1599881767217" duration="9418000" />
-      <workItem from="1600051091107" duration="22768000" />
+      <workItem from="1600051091107" duration="24210000" />
     </task>
     <servers />
   </component>

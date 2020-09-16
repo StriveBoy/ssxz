@@ -15,8 +15,6 @@ class CarouselCollection extends ResourceCollection
     public function toArray($request)
     {
         return [
-            'errCode' => 0,
-            'errMsg' => '',
             'data' => $this->collection,
         ];
     }
